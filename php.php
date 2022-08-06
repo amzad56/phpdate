@@ -1,6 +1,6 @@
-$time = strtotime('10/16/2003');
+$date = strtotime('10/16/2015');
 
 $newformat = date('Y-m-d',$time);
 
 echo $newformat;
-// 2003-10-16
+// 2015-10-16
